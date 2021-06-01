@@ -1,2 +1,2 @@
 # python
-Alguns programas na linguagem python
+Programas na linguagem python
