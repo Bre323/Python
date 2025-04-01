@@ -1,3 +1,3 @@
 # Python
 
-Programas na linguagem Python.
+Files with exercises using Python.
